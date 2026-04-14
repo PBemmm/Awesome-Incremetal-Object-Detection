@@ -1,22 +1,16 @@
-# Core Papers
+# Latest Top-Venue Papers
 
-This list is intended for OWOD papers first, with closely related IOD / CIOD papers included when they help readers understand the broader landscape.
+## 2025
 
-Recommended columns:
+- AAAI 2025. GCD: Advancing Vision-Language Models for Incremental Object Detection via Global Alignment and Correspondence Distillation [[paper](https://doi.org/10.1609/aaai.v39i8.32864)] [[code](https://github.com/Never-wx/GCD)]
+- ICLR 2025. PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection [[paper](https://openreview.net/forum?id=Iu8FVcUmVp)] [[code](https://github.com/wang-qiuchen/PseDet)]
+- ICLR 2025. High-dimension Prototype is a Better Incremental Object Detection Learner [[paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/7f94f1d0a11e0a0f38f973e5a8925909-Abstract-Conference.html)]
+- CVPR 2025. Learning Endogenous Attention for Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Song_Learning_Endogenous_Attention_for_Incremental_Object_Detection_CVPR_2025_paper.html)]
+- CVPR 2025. Revisiting Generative Replay for Class Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Revisiting_Generative_Replay_for_Class_Incremental_Object_Detection_CVPR_2025_paper.html)]
+- ICML 2025. Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector [[paper](https://proceedings.mlr.press/v267/wu25ap.html)] [[code](https://github.com/fanrena/NSGP-RePRE)]
+- ICCV 2025. Gradient Decomposition and Alignment for Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Luo_Gradient_Decomposition_and_Alignment_for_Incremental_Object_Detection_ICCV_2025_paper.html)]
 
-| Year | Venue | Paper | Setting | Method Tags | Protocol / Dataset | Code |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021 | CVPR | [Towards Open World Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.html) | `OWOD` | `Objectness`, `Pseudo-label`, `Two-stage` | `VOC / COCO OWOD` | [Code](https://github.com/JosephKJ/OWOD) |
-| 2022 | CVPR | [OW-DETR: Open-World Detection Transformer](https://openaccess.thecvf.com/content/CVPR2022/html/Gupta_OW-DETR_Open-World_Detection_Transformer_CVPR_2022_paper.html) | `OWOD` | `Transformer`, `Objectness`, `Pseudo-label` | `VOC / COCO OWOD` | [Code](https://github.com/akshitac8/OW-DETR) |
-| 2023 | CVPR | [PROB: Probabilistic Objectness for Open World Object Detection](https://openaccess.thecvf.com/content/CVPR2023/html/Zohar_PROB_Probabilistic_Objectness_for_Open_World_Object_Detection_CVPR_2023_paper.html) | `OWOD` | `Transformer`, `Objectness`, `Probabilistic` | `VOC / COCO OWOD` | [Code](https://github.com/orrzohar/PROB) |
-| 2023 | CVPR | [CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection](https://openaccess.thecvf.com/content/CVPR2023/html/Ma_CAT_LoCalization_and_IdentificAtion_Cascade_Detection_Transformer_for_Open-World_Object_CVPR_2023_paper.html) | `OWOD` | `Transformer`, `Pseudo-label`, `Objectness` | `VOC / COCO OWOD` | `-` |
-| 2023 | ICCV | [Random Boxes Are Open-world Object Detectors](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Random_Boxes_Are_Open-world_Object_Detectors_ICCV_2023_paper.html) | `OWOD` | `Objectness`, `Regularize`, `Two-stage` | `VOC / COCO OWOD`, `LVIS` | [Code](https://github.com/scuwyh2000/RandBox) |
-| 2024 | CVPR | [Exploring Orthogonality in Open World Object Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_Exploring_Orthogonality_in_Open_World_Object_Detection_CVPR_2024_paper.html) | `OWOD` | `Regularize`, `Objectness`, `Two-stage` | `M-OWODB / S-OWODB` | [Code](https://github.com/feifeiobama/OrthogonalDet) |
+## 2024
 
-## Related IOD / CIOD Papers
-
-| Year | Venue | Paper | Setting | Method Tags | Protocol / Dataset | Code |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2017 | ICCV | [Incremental Learning of Object Detectors Without Catastrophic Forgetting](https://openaccess.thecvf.com/content_iccv_2017/html/Shmelkov_Incremental_Learning_of_ICCV_2017_paper.html) | `IOD` | `Distill`, `Two-stage` | `VOC 19+1`, `COCO incremental` | `-` |
-| 2021 | TPAMI | [Incremental Object Detection via Meta-Learning](https://arxiv.org/abs/2003.08798) | `IOD` | `Meta`, `Distill`, `Two-stage` | `VOC 19+1`, `15+5`, `10+10`; `COCO 40+40` | [Code](https://github.com/JosephKJ/iOD) |
-| 2022 | CVPRW | [Modeling Missing Annotations for Incremental Learning in Object Detection](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Cermelli_Modeling_Missing_Annotations_for_Incremental_Learning_in_Object_Detection_CVPRW_2022_paper.html) | `CIOD` | `Distill`, `Regularize`, `Two-stage` | `VOC 19+1`, `15+5`, `10+10`, multi-step | [Code](https://github.com/fcdl94/MMA) |
+- ECCV 2024. Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02511.pdf)] [[code](https://github.com/iSEE-Laboratory/BPF)]
+- CVPR 2024. SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_SDDGR_Stable_Diffusion-based_Deep_Generative_Replay_for_Class_Incremental_Object_CVPR_2024_paper.html)]

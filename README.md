@@ -14,7 +14,7 @@ Reference date:
 
 ## Navigation
 
-- Latest top-venue papers: [lists/papers.md](lists/papers.md)
+- All papers (yearly): [papers.md](papers.md)
 - Benchmarks and protocols: [lists/benchmarks.md](lists/benchmarks.md)
 - Seminal baselines: [lists/baselines.md](lists/baselines.md)
 - Reference codebases: [lists/codebases.md](lists/codebases.md)

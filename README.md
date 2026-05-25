@@ -34,6 +34,7 @@ A curated paper list for **Incremental Object Detection (IOD)**, continual objec
 
 ### 2024
 
+- [VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/html/Kim_VLM-PL_Advanced_Pseudo_Labeling_Approach_for_Class_Incremental_Object_Detection_CVPRW_2024_paper.html) - CVPRW 2024
 - [Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection](https://arxiv.org/abs/2407.11499) - ECCV 2024
 - [Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection](https://arxiv.org/pdf/2403.14797) - ECCV 2024
 - [Learning Task-Aware Language-Image Representation for Class-Incremental Object Detection](https://csgaobb.github.io/Pub_files/AAAI2024_CIOD.pdf) - AAAI 2024
@@ -61,6 +62,7 @@ A curated paper list for **Incremental Object Detection (IOD)**, continual objec
 
 ### DETR
 
+- [VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/html/Kim_VLM-PL_Advanced_Pseudo_Labeling_Approach_for_Class_Incremental_Object_Detection_CVPRW_2024_paper.html) - CVPRW 2024
 - [EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer](https://arxiv.org/abs/2602.20985) - CVPR 2026
 - [Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection](https://arxiv.org/pdf/2403.14797) - ECCV 2024
 - [DCA: Dividing and Conquering Amnesia in Incremental Object Detection](https://arxiv.org/pdf/2503.15295) - AAAI 2025
@@ -73,6 +75,7 @@ A curated paper list for **Incremental Object Detection (IOD)**, continual objec
 
 ### Pretrained / Vision-Language Models
 
+- [VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/html/Kim_VLM-PL_Advanced_Pseudo_Labeling_Approach_for_Class_Incremental_Object_Detection_CVPRW_2024_paper.html) - CVPRW 2024
 - [Learning Task-Aware Language-Image Representation for Class-Incremental Object Detection](https://csgaobb.github.io/Pub_files/AAAI2024_CIOD.pdf) - AAAI 2024
 - [GCD: Advancing Vision-Language Models for Incremental Object Detection via Global Alignment and Correspondence Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/32864) - AAAI 2025
 - [YOLO-IOD: Towards Real Time Incremental Object Detection](https://arxiv.org/pdf/2512.22973) - AAAI 2026

@@ -1,8 +1,0 @@
-# Seminal Baselines
-
-- ICCV 2017. Incremental Learning of Object Detectors Without Catastrophic Forgetting [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Shmelkov_Incremental_Learning_of_ICCV_2017_paper.html)]
-- TPAMI 2021. Incremental Object Detection via Meta-Learning [[paper](https://arxiv.org/abs/2003.08798)] [[code](https://github.com/JosephKJ/iOD)]
-- CVPR 2022. Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html)] [[code](https://github.com/Hi-FT/ERD)]
-- CVPRW 2022. Modeling Missing Annotations for Incremental Learning in Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Cermelli_Modeling_Missing_Annotations_for_Incremental_Learning_in_Object_Detection_CVPRW_2022_paper.html)] [[code](https://github.com/fcdl94/MMA)]
-- CVPR 2023. Continual Detection Transformer for Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Continual_Detection_Transformer_for_Incremental_Object_Detection_CVPR_2023_paper.html)] [[code](https://github.com/yaoyao-liu/CL-DETR)]
-- ICCV 2023. Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Augmented_Box_Replay_Overcoming_Foreground_Shift_for_Incremental_Object_Detection_ICCV_2023_paper.html)] [[code](https://github.com/YuyangSunshine/ABR_IOD)]

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Awesome Continual Learning for Object Detection" width="100%">
+</p>
+
 # Awesome Incremental Object Detection
 
 A curated paper list for **Incremental Object Detection (IOD)**, continual object detection, and related open-world object detection.
